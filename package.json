@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/twilingway/hexlet-js/issues"
   },
-  "homepage": "https://github.com/twilingway/hexlet-js#readme"
+  "homepage": "https://github.com/twilingway/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
